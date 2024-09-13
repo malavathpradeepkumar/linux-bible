@@ -15,4 +15,4 @@ It includes various resources and scripts for Linux system administration, autom
 ## Installation
 Clone the repository to your local system:
 ```bash
-git clone https://github.com/yourusername/repositoryname.git
+https://github.com/malavathpradeepkumar/linux-bible.git
