@@ -1,0 +1,41 @@
+📌 Rules for Linux Bible Notes (Saved in Memory)
+
+1. 📖 Explain **only from your book**.  
+   - No extra or irrelevant commands.  
+   - Add Debian/Ubuntu equivalents only if book does not already mention them.  
+
+2. ✍️ Use **simple English**.  
+   - Short, clear, easy to understand sentences.  
+
+3. ⌨️ Put **everything inside one code block**.  
+   - No explanations outside.  
+
+4. 🔹 Use **symbols/emojis**:  
+   - 📂 files/folders  
+   - 🌐 network/internet  
+   - ⚡ performance/features  
+   - ❌ removal/errors  
+   - 📥 install/download  
+   - 🔎 search/query  
+   - 🔑 authentication/keys  
+   - 🛠️ tools/commands  
+   - 🕑 history/time  
+   - 🔗 dependencies  
+
+5. 🐧 **RHEL/Fedora vs Debian/Ubuntu rule**  
+   - Book = RHEL/Fedora focus.  
+   - If Debian equivalent missing → I must add it.  
+   - If Debian already in book → don’t repeat it.  
+
+6. 📦 Always explain **command options fully**.  
+   - Example: `rpm -qi` → `-q` query, `-i` info.  
+
+7. ⚖️ **Trimming rule**  
+   - Less important chapters (like Linux installation) → only keep modern/useful parts.  
+   - Important chapters (like package management, user management) → cover fully.  
+
+8. 📂 Always include **file paths** mentioned in book.  
+   - Example: `/etc/yum.conf`, `/etc/passwd`, `/etc/login.defs`.  
+
+9. ✅ **No final summary** anymore.  
+   - End notes directly with explanations, no summary list.  
