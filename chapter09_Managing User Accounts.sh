@@ -271,7 +271,7 @@ Options allowed with `-D`:
 # usermod -s /bin/csh chris  
 - Changes login shell of `chris` to `csh`.  
 
-# usermod -Ga sales,marketing chris  
+# usermod -aG sales,marketing chris  
 - Adds `chris` to groups `sales, marketing`.  
 - `-aG` ensures old groups remain.  
 - Without `-a`, existing secondary groups removed.  
