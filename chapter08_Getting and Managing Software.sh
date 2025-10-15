@@ -279,7 +279,7 @@
 ## 🔹 Where Do RPMs Come From?
 - 📌 **Upstream projects** → create software (e.g., Mozilla for Firefox).  
 - 📂 Distributions (Fedora, RHEL) → compile code → binaries + docs + configs → package into `.rpm`.  
-- 🔐 Packages signed (GPG key
+- 🔐 Packages signed (GPG key   (  SEE THIS LINE CODE IN BOOK MAY BE CHAT CUT AFTER THIS SEE IN BOOK WHICH TOPIC IS COMING AFTER THAT)
 
 
 
